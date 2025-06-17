@@ -20,3 +20,4 @@
 ## Text Formatting   
 **Bold**
 *Italic*
+<ins>Underline</ins>
