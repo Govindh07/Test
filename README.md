@@ -27,9 +27,9 @@
 <table>
 <thead>
 <tr>
-<th>Head 1<th>
+<th>Head 1</th>
 <th>Head 2</th>
-<th>Head 3</th>th>
+<th>Head 3</th>
 </tr>
 </thead>
 </table>
