@@ -16,3 +16,7 @@
 2. mongo DB
    1. mongoose
 3. Express JS
+
+## Text Formatting   
+**Bold**
+*Italic*
