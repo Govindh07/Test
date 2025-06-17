@@ -21,3 +21,4 @@
 **Bold**
 *Italic*
 <ins>Underline</ins>
+~~line-through~~
