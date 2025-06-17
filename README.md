@@ -22,3 +22,14 @@
 *Italic*
 <ins>Underline</ins>
 ~~line-through~~
+
+
+<table>
+<thead>
+<tr>
+<th>Head 1<th>
+<th>Head 2</th>
+<th>Head 3</th>th>
+</tr>
+</thead>
+</table>
